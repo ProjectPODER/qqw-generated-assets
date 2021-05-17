@@ -1,0 +1,8 @@
+spec:
+  name: qqw-generated-assets
+  static_sites:
+  - environment_slug: html
+    git:
+      branch: master
+      repo_clone_url: https://github.com/projectpoder/qqw-generated-assets.git
+    name: qqw-generated-assets
